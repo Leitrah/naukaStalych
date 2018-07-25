@@ -6,3 +6,4 @@ int main()
     std::cout << "Result: " << constatsMath << std::endl;
     return 0;
 }
+//uje muje dzikie weze
